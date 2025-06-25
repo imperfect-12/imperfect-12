@@ -4,6 +4,33 @@
 </p>
 
 <p align="center">
-  <img src="[https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmJpazQzdGp1MTd3M3J3dWcwc3NhaXU4cHI5ZzVhN2xrYnNpaDd2biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/t4vA8rB2oVQKK4zOn9/giphy.gif](https://media.giphy.com/media/rvjRyn3dLSj8dqhKuv/giphy.gif)" width="200"/>
-  
+  <img src="https://media.giphy.com/media/rvjRyn3dLSj8dqhKuv/giphy.gif" width="200"/>
+</p>
+
+
+---
+
+##About Me
+- 🎓 Secont year student at **IIT Guwahati**
+- 💻 Passionate about **Web dev**, **App dev** and **Competitive Programming**
+- 🧠 Currently learning **React Native**, **C++**
+- 😵‍💫 Currently working on nothing
+- ✨ Peacefull | Active | Passionate
+
+  ---
+
+  ## 🛠 Tech Stack
+
+  ## 🛠 Tech Stack
+
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" /><span>Native<span/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
 </p>
