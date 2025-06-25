@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+I'm+Imperfect+!!;A+peaceful+aopp+dev+!;I+love+anime%2C+music+%2C+coding+and+games!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Courier+Prime&size=24&pause=1000&center=true&vCenter=true&width=435&lines=Hey+I'm+Imperfect+!!;A+peaceful+app+developer+!;I+love+anime%2C+music+%2C+coding+and+games!" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -31,4 +31,13 @@
   <img src="https://lucide.dev/framework-logos/react-native.svg" width="40" alt="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bocchi277&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocchi277&layout=compact&theme=radical" height="180"/>
 </p>
