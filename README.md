@@ -38,6 +38,50 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bocchi277&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bocchi277&layout=compact&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=imperfect-12&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imperfect-12&layout=compact&theme=radical" height="180"/>
 </p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=imperfect-12&theme=onedark&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
+## 💼 Projects
+
+| Project | Description |
+|--------|-------------|
+| 🎓 Portfolio Website *(soon)* | Something about me and a showcase my skills |
+| ❌⭕ Tick Tack Toe game | A tick tack toe game using react |
+* Projects will soon be done and added *
+
+---
+
+<p align="center">
+  <a href="https://github.com/imperfect-12"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-coming_soon-ff69b4?style=for-the-badge"/></a>
+</p>
+
+---
+
+## 🕊️ Let's Connect
+
+<p>
+  <a href="https://www.linkedin.com/in/prashant-bisht-4b6398321/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="bishtprashant121@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+> *Finding my own peace*
+
+
+
+
