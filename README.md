@@ -10,7 +10,7 @@
 
 ---
 
-##About Me
+## 🌟 About Me
 - 🎓 Secont year student at **IIT Guwahati**
 - 💻 Passionate about **Web dev**, **App dev** and **Competitive Programming**
 - 🧠 Currently learning **React Native**, **C++**
@@ -19,9 +19,7 @@
 
   ---
 
-  ## 🛠 Tech Stack
-
-  ## 🛠 Tech Stack
+## 🛠 Tech Stack
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
@@ -30,7 +28,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React Native" /><span>Native<span/>
+  <img src="https://lucide.dev/framework-logos/react-native.svg" width="40" alt="React Native" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
 </p>
