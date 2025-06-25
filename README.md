@@ -1,7 +1,7 @@
 <!-- Banner -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&center=true&vCenter=true&width=600&lines=Hello!!+I'm+Imperfect;I'm+a+peaceful+app+developer;I+like+coding%2C+anime%2C+music%2C+games" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&pause=1000&center=true&vCenter=true&width=600&lines=Hello!!+I'm+Imperfect;I'm+a+peaceful+app+developer;I+like+coding%2C+anime%2C+music+and+games" alt="Typing SVG" />
   </a>
 </p>
 <p align="center">
