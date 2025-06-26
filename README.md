@@ -58,7 +58,7 @@
 | Project | Description |
 |--------|-------------|
 | 🎓 Portfolio Website *(soon)* | Something about me and a showcase my skills |
-| ❌ Tick Tack Toe game ⭕| A tick tack toe game using react |
+| ❌ Tick Tack Toe game ⭕| <a href="https://github.com/imperfect-12/tick-tack-toe">A tick tack toe game using react<a/> |
 * Projects will soon be done and added *
 
 ---
