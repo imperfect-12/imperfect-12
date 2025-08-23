@@ -59,7 +59,6 @@
 |--------|-------------|
 | 🎓 Portfolio Website *(soon)* | Something about me and a showcase my skills |
 | ❌ Tick Tack Toe game ⭕| <a href="https://github.com/imperfect-12/tick-tack-toe">A tick tack toe game using react<a/> |
-| 🌮 Little Taco Shop| <a href="https://github.com/imperfect-12/Little-Taco-Shop">A site for a fictional Store Little Taco Shop<a/>|
 
 ---
 
