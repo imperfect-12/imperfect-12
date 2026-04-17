@@ -14,8 +14,6 @@
 ## 🌟 About Me
 - 🎓 Secont year student at **IIT Guwahati**
 - 💻 Passionate about **Web dev**, **App dev** and **Competitive Programming**
-- 🧠 Currently learning **React Native**, **C++**
-- 😵‍💫 Currently working on nothing
 - ✨ Peacefull | Active | Passionate
 
   ---
@@ -58,7 +56,6 @@
 | Project | Description |
 |--------|-------------|
 | 🎓 Portfolio Website *(soon)* | Something about me and a showcase my skills |
-| ❌ Tick Tack Toe game ⭕| <a href="https://github.com/imperfect-12/tick-tack-toe">A tick tack toe game using react<a/> |
 
 ---
 
